@@ -1,6 +1,6 @@
-Набор LAMP для запуска Битрикс Управление Сайтом.
+Набор LAMP для запуска Битрикс: Управление Сайтом.
 
-Apache + PHP + MySQL + Xdebug + phpMyAdmin
+Apache + PHP 8.2 + MySQL + Xdebug + phpMyAdmin
 
 http://localhost:8090 - веб-сервер apache
 http://localhost:8090/bitrixsetup.php - установочный скрипт битриска
@@ -8,7 +8,7 @@ http://localhost:8091 - phpmyadmin
 
 Данные для подключения к базе:
 
-хост: localhost
+хост: database
 пользователь: docker
 пароль: docker
 база данных: docker
